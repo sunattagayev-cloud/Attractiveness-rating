@@ -47,6 +47,7 @@
             color: var(--text-main);
             margin: 0;
             transition: all 0.3s ease;
+            overflow-x: hidden;
         }
 
         /* Loading */
@@ -74,14 +75,20 @@
         .header-inner {
             max-width: 1400px; margin: 0 auto; padding: 0 20px;
             display: flex; justify-content: space-between; align-items: center;
+            flex-wrap: wrap; gap: 15px;
         }
-        .brand-box h1 { margin: 0; font-size: 1.3rem; color: var(--primary); display: flex; align-items: center; gap: 10px; }
-        .source-badge { font-size: 0.75rem; color: var(--text-secondary); display: block; margin-top: 4px; font-weight: 500;}
+        
+        .brand-box { flex: 1; min-width: 250px; }
+        .brand-box h1 { margin: 0; font-size: 1.3rem; color: var(--primary); display: flex; align-items: center; gap: 10px; flex-wrap: wrap;}
+        .source-badge { font-size: 0.75rem; color: var(--text-secondary); display: block; margin-top: 4px; font-weight: 500; line-height: 1.4;}
         .source-badge a { color: var(--primary); text-decoration: none; border-bottom: 1px dashed var(--primary); }
+
+        .header-controls { display: flex; gap: 8px; align-items: center; }
 
         .btn-icon {
             background: transparent; border: 1px solid var(--border); color: var(--text-main);
             width: 38px; height: 38px; border-radius: 10px; cursor: pointer; transition: 0.2s;
+            display: flex; align-items: center; justify-content: center; flex-shrink: 0;
         }
         .btn-icon:hover { background: var(--border); color: var(--primary); }
         .active-lang { background: var(--primary) !important; color: white !important; border-color: var(--primary) !important; }
@@ -91,7 +98,65 @@
             max-width: 1400px; margin: 30px auto; padding: 0 20px;
             display: grid; grid-template-columns: 320px 1fr; gap: 25px;
         }
-        @media (max-width: 1024px) { .container { grid-template-columns: 1fr; } }
+
+        /* -- YANGI: Mobile Toggle Logic (Bank Dashboarddan olindi) -- */
+        .mobile-filter-btn {
+            display: none; /* Desktopda ko'rinmaydi */
+            width: 100%; 
+            padding: 12px; 
+            background: var(--bg-card); 
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            color: var(--primary);
+            font-weight: 600;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            cursor: pointer;
+            box-shadow: var(--shadow);
+            margin-bottom: 20px;
+            font-size: 1rem;
+        }
+
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* RESPONSIVE LAYOUT */
+        @media (max-width: 1024px) { 
+            .container { 
+                grid-template-columns: 1fr; 
+                margin-top: 15px;
+                display: block; /* Gridni o'chiramiz, elementlar ustma-ust bo'ladi */
+            } 
+            
+            /* Sidebar defaults: yashiringan */
+            aside {
+                display: none; 
+                position: static !important;
+                height: auto !important;
+                margin-bottom: 25px;
+            }
+
+            /* Sidebar active: ko'rsatish */
+            aside.active { 
+                display: block; 
+                animation: slideDown 0.3s ease-out;
+            }
+
+            .mobile-filter-btn { display: flex; }
+        }
+
+        /* Sidebar Styles */
+        .sidebar-sticky-wrapper {
+            position: sticky;
+            top: 90px;
+            height: fit-content;
+        }
+        @media (max-width: 1024px) {
+            .sidebar-sticky-wrapper { position: static; }
+        }
 
         /* Cards */
         .card {
@@ -102,13 +167,7 @@
             width: 100%; padding: 10px; border-radius: 10px;
             border: 1px solid var(--border); background: var(--bg-body); color: var(--text-main);
             margin-bottom: 15px; outline: none; box-sizing: border-box; font-family: 'Inter', sans-serif;
-        }
-
-        /* Sticky Sidebar for Alignment */
-        aside {
-            position: sticky;
-            top: 90px;
-            height: fit-content;
+            font-size: 16px; 
         }
 
         /* Calculator Styles */
@@ -116,7 +175,7 @@
             background: linear-gradient(135deg, rgba(67, 97, 238, 0.05), rgba(16, 185, 129, 0.05));
             border: 1px solid var(--border); padding: 15px; border-radius: 12px; margin-bottom: 20px;
         }
-        .calc-row { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.9rem; align-items: center;}
+        .calc-row { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.9rem; align-items: center; flex-wrap: wrap; gap: 5px;}
         .calc-val { font-weight: bold; color: var(--text-main); text-align: right; }
         .calc-profit { color: var(--success); font-size: 1.2rem; font-weight: 700; display: block; text-align: right;}
         .calc-label { color: var(--text-secondary); }
@@ -138,11 +197,12 @@
         }
         .promo-logo {
             max-width: 180px; margin-bottom: 15px; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2));
+            width: 100%; height: auto;
         }
         .slogan-animate { animation: fadeIn 0.8s ease-in-out; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 
-        .social-links { display: flex; gap:10px; justify-content: center; margin-top:15px; }
+        .social-links { display: flex; gap:10px; justify-content: center; margin-top:15px; flex-wrap: wrap;}
         .social-links a { 
             color: white; display: inline-flex; align-items: center; gap: 8px; text-decoration: none; 
             border: 1px solid rgba(255,255,255,0.3); padding: 10px 16px; border-radius: 10px; font-size: 0.9rem; transition: 0.2s; background: rgba(255,255,255,0.1);
@@ -151,36 +211,55 @@
 
         /* KPI */
         .stats-grid {
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px; margin-bottom: 25px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 25px;
         }
+        @media (max-width: 480px) {
+            .stats-grid { grid-template-columns: 1fr; }
+            .header-inner { justify-content: center; text-align: center; }
+            .brand-box h1 { justify-content: center; }
+            .header-controls { width: 100%; justify-content: center; margin-top: 10px;}
+        }
+
         .stat-card {
             background: var(--bg-card); padding: 20px; border-radius: var(--radius);
             border: 1px solid var(--border); display: flex; align-items: flex-start; justify-content: space-between;
             box-shadow: var(--shadow); position: relative; overflow: hidden; min-height: 110px;
         }
         .stat-info { flex: 1; min-width: 0; } 
+        .stat-info h3 { font-size: 1.4rem; overflow-wrap: break-word; word-break: break-all;}
+        
         .stat-icon {
             width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; margin-left: 10px; flex-shrink: 0;
         }
         .change-badge { 
             font-size: 0.8rem; background: rgba(0,0,0,0.05); padding: 2px 8px; border-radius: 4px; margin-top: 5px; 
             font-weight: 600; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+            line-height: 1.3;
         }
 
         /* Charts */
         .charts-row { display: grid; grid-template-columns: 2fr 1fr; gap: 25px; margin-bottom: 25px; transition: all 0.3s ease; }
         @media (max-width: 900px) { .charts-row { grid-template-columns: 1fr; } }
-        .chart-box { height: 380px; position: relative; }
+        .chart-box { height: 380px; position: relative; width: 100%; }
+        @media (max-width: 600px) { .chart-box { height: 300px; } }
 
         /* Table */
-        .table-container { overflow-x: auto; margin-top: 10px; border-radius: 12px; border: 1px solid var(--border); max-height: 700px; overflow-y: auto;}
-        table { width: 100%; border-collapse: collapse; }
+        .table-container { 
+            overflow-x: auto; 
+            margin-top: 10px; 
+            border-radius: 12px; 
+            border: 1px solid var(--border); 
+            max-height: 700px; 
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch; 
+        }
+        table { width: 100%; border-collapse: collapse; min-width: 800px; }
         th, td { padding: 12px 15px; text-align: center; border-bottom: 1px solid var(--border); white-space: nowrap; vertical-align: middle; }
-        td:first-child, th:first-child { text-align: left; }
+        td:first-child, th:first-child { text-align: left; position: sticky; left: 0; background: var(--bg-card); z-index: 5;} 
         th { background: var(--bg-body); font-weight: 600; font-size: 0.85rem; color: var(--text-secondary); cursor: pointer; position: sticky; top: 0; z-index: 10;}
+        th:first-child { z-index: 20; }
         th:hover { background: rgba(0,0,0,0.05); }
         
-        /* Rating Colors */
         .rating-green { color: var(--success); font-weight: bold; } 
         .rating-blue { color: var(--primary); font-weight: bold; }
         .rating-yellow { color: var(--orange); font-weight: bold; }
@@ -192,7 +271,6 @@
 
         .footer { text-align: center; padding: 20px; margin-top: 30px; color: var(--text-secondary); font-size: 0.85rem; border-top: 1px solid var(--border); }
         
-        /* Custom scrollbar */
         ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
         body.dark-mode ::-webkit-scrollbar-thumb { background: #475569; }
@@ -220,7 +298,7 @@
                     </span>
                 </div>
             </div>
-            <div style="display: flex; gap: 8px;">
+            <div class="header-controls">
                 <button class="btn-icon" onclick="toggleTheme()" title="Mavzu"><i class="fa-solid fa-moon"></i></button>
                 <div style="display:flex; border:1px solid var(--border); border-radius:10px; overflow:hidden;">
                     <button class="btn-icon active-lang" onclick="setLang('uz')" id="btn-uz">UZ</button>
@@ -233,117 +311,125 @@
 
     <div class="container main-wrapper">
         
+        <!-- --- YANGI: Mobil Toggle Button --- -->
+        <button class="mobile-filter-btn" onclick="toggleSidebar()">
+            <i class="fa-solid fa-bars-staggered"></i> <span id="t-mobile-menu">Filtrlar va Kalkulyator</span>
+        </button>
+
         <!-- Sidebar -->
-        <aside>
-            <div class="card">
-                <h3><i class="fa-solid fa-filter"></i> <span id="t-filter">Filtrlash</span></h3>
-                
-                <label id="t-type" style="font-size:0.85rem; color:var(--text-secondary)">Qog'oz Turi</label>
-                <select id="filter-type" class="form-select" onchange="renderApp()">
-                    <option value="">— Barchasi —</option>
-                </select>
+        <aside id="main-sidebar">
+            <!-- Sidebar content wrapper required for alignment -->
+            <div class="sidebar-sticky-wrapper">
+                <div class="card">
+                    <h3><i class="fa-solid fa-filter"></i> <span id="t-filter">Filtrlash</span></h3>
+                    
+                    <label id="t-type" style="font-size:0.85rem; color:var(--text-secondary)">Qog'oz Turi</label>
+                    <select id="filter-type" class="form-select" onchange="renderApp()">
+                        <option value="">— Barchasi —</option>
+                    </select>
 
-                <label id="t-industry" style="font-size:0.85rem; color:var(--text-secondary)">Tarmoq</label>
-                <select id="filter-industry" class="form-select" onchange="renderApp()">
-                    <option value="">— Barchasi —</option>
-                </select>
+                    <label id="t-industry" style="font-size:0.85rem; color:var(--text-secondary)">Tarmoq</label>
+                    <select id="filter-industry" class="form-select" onchange="renderApp()">
+                        <option value="">— Barchasi —</option>
+                    </select>
 
-                <label id="t-region" style="font-size:0.85rem; color:var(--text-secondary)">Hudud</label>
-                <select id="filter-region" class="form-select" onchange="renderApp()">
-                    <option value="">— Barchasi —</option>
-                </select>
+                    <label id="t-region" style="font-size:0.85rem; color:var(--text-secondary)">Hudud</label>
+                    <select id="filter-region" class="form-select" onchange="renderApp()">
+                        <option value="">— Barchasi —</option>
+                    </select>
 
-                <label id="t-issuer" style="font-size:0.85rem; color:var(--text-secondary)">Emitentni izlash</label>
-                <input type="text" id="filter-issuer" class="form-input" placeholder="..." oninput="renderApp()">
+                    <label id="t-issuer" style="font-size:0.85rem; color:var(--text-secondary)">Emitentni izlash</label>
+                    <input type="text" id="filter-issuer" class="form-input" placeholder="..." oninput="renderApp()">
 
-                <label id="t-date" style="font-size:0.85rem; color:var(--text-secondary)">Davr (Yil_Oy)</label>
-                <select id="filter-period" class="form-select" onchange="renderApp()">
-                    <option value="">— Eng so'nggi —</option>
-                </select>
+                    <label id="t-date" style="font-size:0.85rem; color:var(--text-secondary)">Davr (Yil_Oy)</label>
+                    <select id="filter-period" class="form-select" onchange="renderApp()">
+                        <option value="">— Eng so'nggi —</option>
+                    </select>
 
-                <button class="btn-icon" style="width:100%; border-radius:8px;" onclick="resetFilters()">
-                    <i class="fa-solid fa-rotate-right"></i> <span id="t-reset">Tozalash</span>
-                </button>
-            </div>
-
-            <!-- INVESTMENT CALCULATOR -->
-            <div class="card">
-                <h3><i class="fa-solid fa-calculator"></i> <span id="t-calc-title">Investitsiya Kalkulyatori</span></h3>
-                <label style="font-size:0.85rem; color:var(--text-secondary)" id="t-calc-amount">Mablag' miqdori</label>
-                <div class="input-group">
-                    <input type="text" inputmode="numeric" id="calc-input" class="form-input" value="1 000 000" oninput="formatCalcInput(this)">
-                    <span class="input-currency" id="calc-curr-label">UZS</span>
+                    <button class="btn-icon" style="width:100%; border-radius:8px;" onclick="resetFilters()">
+                        <i class="fa-solid fa-rotate-right"></i> <span id="t-reset">Tozalash</span>
+                    </button>
                 </div>
-                
-                <label style="font-size:0.85rem; color:var(--text-secondary)" id="t-calc-select">Emitentni tanlang</label>
-                <select id="calc-issuer-select" class="form-select" onchange="calculateInvestment()"></select>
 
-                <div class="calc-box">
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-type">Qog'oz turi:</span>
-                        <span class="calc-val" id="calc-type-val" style="font-size:0.85rem;">-</span>
-                    </div>
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-code">Kodi:</span>
-                        <span class="calc-val" id="calc-code-val" style="font-size:0.85rem;">-</span>
-                    </div>
-                    <div style="border-top:1px dashed var(--border); margin:8px 0;"></div>
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-nominal">Nominal narx:</span>
-                        <span class="calc-val" id="calc-nominal-val">-</span>
-                    </div>
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-min">Minimal narx:</span>
-                        <span class="calc-val" id="calc-min-val">-</span>
-                    </div>
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-price">O'rtacha narx:</span>
-                        <span class="calc-val" id="calc-avg-price">-</span>
-                    </div>
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-max">Maksimal narx:</span>
-                        <span class="calc-val" id="calc-max-val">-</span>
+                <!-- INVESTMENT CALCULATOR -->
+                <div class="card">
+                    <h3><i class="fa-solid fa-calculator"></i> <span id="t-calc-title">Investitsiya Kalkulyatori</span></h3>
+                    <label style="font-size:0.85rem; color:var(--text-secondary)" id="t-calc-amount">Mablag' miqdori</label>
+                    <div class="input-group">
+                        <input type="text" inputmode="numeric" id="calc-input" class="form-input" value="1 000 000" oninput="formatCalcInput(this)">
+                        <span class="input-currency" id="calc-curr-label">UZS</span>
                     </div>
                     
-                    <div style="border-top:1px dashed var(--border); margin:10px 0;"></div>
-                    
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-rating">Reyting bali:</span>
-                        <span class="calc-val" id="calc-rating-score">-</span>
-                    </div>
-                    <div class="calc-row">
-                        <span class="calc-label" id="t-calc-grade">Reyting:</span>
-                        <span class="calc-val" id="calc-rating-grade">-</span>
-                    </div>
-                    
-                    <div style="margin-top:10px; border-top:1px dashed var(--border); padding-top:10px;">
-                        <span class="calc-label" style="font-weight:600;" id="t-calc-qty">Sotib olish mumkin:</span>
-                        <div class="calc-profit" style="font-size:1.1rem; margin-top:5px;" id="calc-result-qty">0 dona</div>
+                    <label style="font-size:0.85rem; color:var(--text-secondary)" id="t-calc-select">Emitentni tanlang</label>
+                    <select id="calc-issuer-select" class="form-select" onchange="calculateInvestment()"></select>
+
+                    <div class="calc-box">
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-type">Qog'oz turi:</span>
+                            <span class="calc-val" id="calc-type-val" style="font-size:0.85rem;">-</span>
+                        </div>
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-code">Kodi:</span>
+                            <span class="calc-val" id="calc-code-val" style="font-size:0.85rem;">-</span>
+                        </div>
+                        <div style="border-top:1px dashed var(--border); margin:8px 0;"></div>
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-nominal">Nominal narx:</span>
+                            <span class="calc-val" id="calc-nominal-val">-</span>
+                        </div>
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-min">Minimal narx:</span>
+                            <span class="calc-val" id="calc-min-val">-</span>
+                        </div>
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-price">O'rtacha narx:</span>
+                            <span class="calc-val" id="calc-avg-price">-</span>
+                        </div>
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-max">Maksimal narx:</span>
+                            <span class="calc-val" id="calc-max-val">-</span>
+                        </div>
+                        
+                        <div style="border-top:1px dashed var(--border); margin:10px 0;"></div>
+                        
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-rating">Reyting bali:</span>
+                            <span class="calc-val" id="calc-rating-score">-</span>
+                        </div>
+                        <div class="calc-row">
+                            <span class="calc-label" id="t-calc-grade">Reyting:</span>
+                            <span class="calc-val" id="calc-rating-grade">-</span>
+                        </div>
+                        
+                        <div style="margin-top:10px; border-top:1px dashed var(--border); padding-top:10px;">
+                            <span class="calc-label" style="font-weight:600;" id="t-calc-qty">Sotib olish mumkin:</span>
+                            <div class="calc-profit" style="font-size:1.1rem; margin-top:5px;" id="calc-result-qty">0 dona</div>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="card promo-card">
-                <div class="promo-bg"></div>
-                <div style="position:relative; z-index:2;">
-                    <!-- Updated Logo -->
-                    <img src="https://snsratings.uz/static/media/logo.b58a119151d230b7d82af1dfaf415791.svg" class="promo-logo" alt="Logo">
-                    
-                    <!-- Rotating Slogan -->
-                    <p id="t-slogan-text" style="font-size:0.95rem; font-weight:600; margin-top:8px; min-height: 40px; display:flex; align-items:center; justify-content:center;">
-                        ...
-                    </p>
-                    
-                    <!-- Social Links -->
-                    <div class="social-links">
-                        <a href="https://snsratings.uz/" target="_blank"><i class="fa-solid fa-globe"></i> Web</a>
-                        <a href="https://t.me/snsratings" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram</a>
+                <div class="card promo-card">
+                    <div class="promo-bg"></div>
+                    <div style="position:relative; z-index:2;">
+                        <!-- Logo -->
+                        <img src="https://snsratings.uz/static/media/logo.b58a119151d230b7d82af1dfaf415791.svg" class="promo-logo" alt="Logo">
+                        
+                        <!-- Rotating Slogan -->
+                        <p id="t-slogan-text" style="font-size:0.95rem; font-weight:600; margin-top:8px; min-height: 40px; display:flex; align-items:center; justify-content:center;">
+                            ...
+                        </p>
+                        
+                        <!-- Social Links -->
+                        <div class="social-links">
+                            <a href="https://snsratings.uz/" target="_blank"><i class="fa-solid fa-globe"></i> Web</a>
+                            <a href="https://t.me/snsratings" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram</a>
+                        </div>
+
+                        <!-- Contact Info -->
+                        <p id="t-contact-msg" style="font-size:0.75rem; color:#e0e7ff; margin: 15px 0 0 0; font-style:italic; border-top:1px dashed rgba(255,255,255,0.3); padding-top:10px;">
+                            Batafsil ma'lumot olish uchun Reyting Agentligi hodimlariga murojaat qiling
+                        </p>
                     </div>
-
-                    <!-- Contact Info -->
-                    <p id="t-contact-msg" style="font-size:0.75rem; color:#e0e7ff; margin: 15px 0 0 0; font-style:italic; border-top:1px dashed rgba(255,255,255,0.3); padding-top:10px;">
-                        Batafsil ma'lumot olish uchun Reyting Agentligi hodimlariga murojaat qiling
-                    </p>
                 </div>
             </div>
         </aside>
@@ -463,7 +549,8 @@
                 chartTrend: "O'rtacha Ball Dinamikasi", chartIndustry: "Tarmoqlar Kesimi (Hajm bo'yicha)", tableTitle: "Batafsil Jadval",
                 thIssuer: "Emitent", thVolume: "Hajm (mln)", thFreq: "Bitimlar", thPrice: "O'rtacha Narx", thRateScore: "Ball", thGrade: "Reyting", thPeriod: "Davr",
                 calcTitle: "Investitsiya Kalkulyatori", calcAmount: "Mablag' miqdori", calcSelect: "Emitentni tanlang", calcType: "Qog'oz turi:", calcCode: "Kodi:", calcPrice: "O'rtacha narx:", calcNominal: "Nominal narx:", calcMin: "Minimal narx:", calcMax: "Maksimal narx:", calcRating: "Reyting bali:", calcGrade: "Reyting:", calcQty: "Sotib olish mumkin:",
-                others: "Boshqalar", units: "dona", contactMsg: "Batafsil ma'lumot olish uchun Reyting Agentligi hodimlariga murojaat qiling"
+                others: "Boshqalar", units: "dona", contactMsg: "Batafsil ma'lumot olish uchun Reyting Agentligi hodimlariga murojaat qiling",
+                mobileMenu: "Filtrlar va Kalkulyator"
             },
             ru: {
                 brand: "Инвестиционный Анализ", subtitle: "Рейтинг привлекательности ценных бумаг", source: "Источник: на основе данных <a href='https://uzse.uz' target='_blank'>uzse.uz</a>, <a href='https://new.openinfo.uz/' target='_blank'>openinfo.uz</a> и методики Рейтингового Агентства",
@@ -473,7 +560,8 @@
                 chartTrend: "Динамика Среднего Балла", chartIndustry: "По отраслям (Объем)", tableTitle: "Подробная таблица",
                 thIssuer: "Эмитент", thVolume: "Объем (млн)", thFreq: "Сделки", thPrice: "Сред. цена", thRateScore: "Балл", thGrade: "Рейтинг", thPeriod: "Период",
                 calcTitle: "Калькулятор Инвестиций", calcAmount: "Сумма вложений", calcSelect: "Выберите эмитента", calcType: "Тип бумаги:", calcCode: "Код:", calcPrice: "Средняя цена:", calcNominal: "Номинал:", calcMin: "Мин. цена:", calcMax: "Макс. цена:", calcRating: "Рейтинговый балл:", calcGrade: "Рейтинг:", calcQty: "Можно купить:",
-                others: "Другие", units: "шт.", contactMsg: "Для получения подробной информации обратитесь к сотрудникам Рейтингового агентства"
+                others: "Другие", units: "шт.", contactMsg: "Для получения подробной информации обратитесь к сотрудникам Рейтингового агентства",
+                mobileMenu: "Фильтры и Калькулятор"
             },
             en: {
                 brand: "Investment Analysis", subtitle: "Securities Attractiveness Rating", source: "Source: based on <a href='https://uzse.uz' target='_blank'>uzse.uz</a>, <a href='https://new.openinfo.uz/' target='_blank'>openinfo.uz</a> data and Rating Agency methodology",
@@ -483,7 +571,8 @@
                 chartTrend: "Average Score Dynamics", chartIndustry: "Industry Split (Volume)", tableTitle: "Detailed Table",
                 thIssuer: "Issuer", thVolume: "Volume (mln)", thFreq: "Deals", thPrice: "Avg Price", thRateScore: "Score", thGrade: "Grade", thPeriod: "Period",
                 calcTitle: "Investment Calculator", calcAmount: "Investment Amount", calcSelect: "Select Issuer", calcType: "Type:", calcCode: "Code:", calcPrice: "Avg Price:", calcNominal: "Nominal Price:", calcMin: "Min Price:", calcMax: "Max Price:", calcRating: "Rating Score:", calcGrade: "Rating:", calcQty: "Can Buy:",
-                others: "Others", units: "pcs", contactMsg: "For detailed information, please contact Rating Agency staff"
+                others: "Others", units: "pcs", contactMsg: "For detailed information, please contact Rating Agency staff",
+                mobileMenu: "Filters and Calculator"
             }
         };
 
@@ -532,6 +621,11 @@
             if (currentLang === 'uz') return val;
             if (dictionary[val] && dictionary[val][currentLang]) return dictionary[val][currentLang];
             return val;
+        }
+
+        // --- YANGI: Sidebar Toggle Funksiyasi ---
+        function toggleSidebar() {
+            document.getElementById('main-sidebar').classList.toggle('active');
         }
 
         // --- INIT ---
@@ -592,7 +686,8 @@
                 't-calc-title': t.calcTitle, 't-calc-amount': t.calcAmount, 't-calc-select': t.calcSelect, 't-calc-type': t.calcType,
                 't-calc-code':t.calcCode, 't-calc-price': t.calcPrice, 't-calc-nominal': t.calcNominal, 't-calc-min':t.calcMin, 't-calc-max':t.calcMax, 
                 't-calc-rating': t.calcRating, 't-calc-grade': t.calcGrade, 't-calc-qty': t.calcQty,
-                't-contact-msg': t.contactMsg 
+                't-contact-msg': t.contactMsg,
+                't-mobile-menu': t.mobileMenu
             };
             
             for (const [id, text] of Object.entries(mapping)) {
