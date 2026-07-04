@@ -272,6 +272,22 @@
         "Reyting": "(uz) \"AA\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKISTON RESPUBLIKA TOVAR-XOMASHYO BIRJASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7043200003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 3137,
+        "Bitimlar hajmi, mln so'mda": 4868.56,
+        "Nominal narx": 630.0,
+        "Savdo narxi - min": 8021.0,
+        "Savdo narxi - o'rtacha": 8338.51,
+        "Savdo narxi - max": 8540.0,
+        "Reyting bali": 89.56,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "CHEKI \"HAMKORBANK\" ATB",
         "Qimmatli qog'oz kodi": "UZ7011340005",
@@ -544,6 +560,22 @@
         "Reyting": "(uz) \"AA+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "CHEKI \"HAMKORBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ7011340005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Andijon viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 4438,
+        "Bitimlar hajmi, mln so'mda": 5237.28,
+        "Nominal narx": 5.0,
+        "Savdo narxi - min": 56.0,
+        "Savdo narxi - o'rtacha": 65.82,
+        "Savdo narxi - max": 69.8,
+        "Reyting bali": 90.98,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZAGROSUG'URTA\" AJ",
         "Qimmatli qog'oz kodi": "UZ7045570007",
@@ -797,6 +829,22 @@
         "Savdo narxi - o'rtacha": 22822.21,
         "Savdo narxi - max": 24000.0,
         "Reyting bali": 68.1,
+        "Reyting": "(uz) \"BBB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZAGROSUG'URTA\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7045570007",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 39,
+        "Bitimlar hajmi, mln so'mda": 1.76,
+        "Nominal narx": 3280.0,
+        "Savdo narxi - min": 24960.0,
+        "Savdo narxi - o'rtacha": 31708.1,
+        "Savdo narxi - max": 48000.0,
+        "Reyting bali": 69.48,
         "Reyting": "(uz) \"BBB-\""
     },
     {
@@ -1072,6 +1120,22 @@
         "Reyting": "(uz) \"AA-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"IPOTEKA-BANK\" ATIB",
+        "Qimmatli qog'oz kodi": "UZ7054570005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 4861,
+        "Bitimlar hajmi, mln so'mda": 182.96,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 2.83,
+        "Savdo narxi - o'rtacha": 3.07,
+        "Savdo narxi - max": 3.41,
+        "Reyting bali": 86.24,
+        "Reyting": "(uz) \"AA-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"IPAK YO'LI\" AITB",
         "Qimmatli qog'oz kodi": "UZ7039920002",
@@ -1341,6 +1405,38 @@
         "Savdo narxi - o'rtacha": 155.2,
         "Savdo narxi - max": 170.0,
         "Reyting bali": 90.03,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"IPAK YO'LI\" AITB",
+        "Qimmatli qog'oz kodi": "UZ7039920002",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 859,
+        "Bitimlar hajmi, mln so'mda": 28.77,
+        "Nominal narx": 10.0,
+        "Savdo narxi - min": 150.0,
+        "Savdo narxi - o'rtacha": 164.35,
+        "Savdo narxi - max": 170.0,
+        "Reyting bali": 83.0,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"KAFOLAT SUG'URTA KOMPANIYASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7001100005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 79,
+        "Bitimlar hajmi, mln so'mda": 146191.31,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 1.31,
+        "Savdo narxi - o'rtacha": 85.02,
+        "Savdo narxi - max": 116.0,
+        "Reyting bali": 89.7,
         "Reyting": "(uz) \"AA\""
     },
     {
@@ -1616,6 +1712,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TURONBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ7035530003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 329,
+        "Bitimlar hajmi, mln so'mda": 5.85,
+        "Nominal narx": 1700.0,
+        "Savdo narxi - min": 1065.0,
+        "Savdo narxi - o'rtacha": 1234.97,
+        "Savdo narxi - max": 1300.0,
+        "Reyting bali": 75.56,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"CHILONZOR BUYUM SAVDO KOMPLEKSI\" AJ",
         "Qimmatli qog'oz kodi": "UZ7038380000",
@@ -1888,6 +2000,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"CHILONZOR BUYUM SAVDO KOMPLEKSI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7038380000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "KO'CHMAS MULK BITIMLARI",
+        "Bitimlar chastotasi": 4839,
+        "Bitimlar hajmi, mln so'mda": 232.11,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 2.98,
+        "Savdo narxi - o'rtacha": 3.08,
+        "Savdo narxi - max": 3.36,
+        "Reyting bali": 78.21,
+        "Reyting": "(uz) \"A-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"ALSKOM SUG'URTA KOMPANIYASI\" AJ",
         "Qimmatli qog'oz kodi": "UZ7045320007",
@@ -2078,6 +2206,22 @@
         "Savdo narxi - max": 1040.0,
         "Reyting bali": 66.99,
         "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"ALSKOM SUG'URTA KOMPANIYASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7045320007",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 157,
+        "Bitimlar hajmi, mln so'mda": 4.4,
+        "Nominal narx": 1380.0,
+        "Savdo narxi - min": 800.0,
+        "Savdo narxi - o'rtacha": 991.24,
+        "Savdo narxi - max": 1092.0,
+        "Reyting bali": 70.86,
+        "Reyting": "(uz) \"BBB\""
     },
     {
         "Davr": "2025_01",
@@ -2352,6 +2496,22 @@
         "Reyting": "(uz) \"A+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "AT \"ALOQABANK\"",
+        "Qimmatli qog'oz kodi": "UZ7044760005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 21492,
+        "Bitimlar hajmi, mln so'mda": 152.27,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 0.79,
+        "Savdo narxi - o'rtacha": 0.89,
+        "Savdo narxi - max": 1.02,
+        "Reyting bali": 86.86,
+        "Reyting": "(uz) \"AA-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZSANOATQURILISHBANK\" ATB ",
         "Qimmatli qog'oz kodi": "UZ7037560008",
@@ -2621,6 +2781,22 @@
         "Savdo narxi - o'rtacha": 34.02,
         "Savdo narxi - max": 36.64,
         "Reyting bali": 87.33,
+        "Reyting": "(uz) \"AA-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZSANOATQURILISHBANK\" ATB ",
+        "Qimmatli qog'oz kodi": "UZ7037560008",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 3272,
+        "Bitimlar hajmi, mln so'mda": 1551.97,
+        "Nominal narx": 19.0,
+        "Savdo narxi - min": 32.0,
+        "Savdo narxi - o'rtacha": 33.75,
+        "Savdo narxi - max": 35.0,
+        "Reyting bali": 87.88,
         "Reyting": "(uz) \"AA-\""
     },
     {
@@ -2896,6 +3072,22 @@
         "Reyting": "(uz) \"A\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"KAPITAL SUG'URTA\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7028660007",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 17386,
+        "Bitimlar hajmi, mln so'mda": 26.89,
+        "Nominal narx": 0.01,
+        "Savdo narxi - min": 0.01,
+        "Savdo narxi - o'rtacha": 0.01,
+        "Savdo narxi - max": 0.01,
+        "Reyting bali": 82.03,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZBEKTELEKOM\" AK",
         "Qimmatli qog'oz kodi": "UZ7047110000",
@@ -3149,6 +3341,22 @@
         "Savdo narxi - o'rtacha": 5813.49,
         "Savdo narxi - max": 6199.95,
         "Reyting bali": 86.61,
+        "Reyting": "(uz) \"AA-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKTELEKOM\" AK",
+        "Qimmatli qog'oz kodi": "UZ7047110000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "AXBOROT VA KOMMUNIKATSIYA",
+        "Bitimlar chastotasi": 2662,
+        "Bitimlar hajmi, mln so'mda": 1247.61,
+        "Nominal narx": 1154.0,
+        "Savdo narxi - min": 5310.0,
+        "Savdo narxi - o'rtacha": 6112.09,
+        "Savdo narxi - max": 6499.0,
+        "Reyting bali": 85.32,
         "Reyting": "(uz) \"AA-\""
     },
     {
@@ -3422,6 +3630,22 @@
         "Savdo narxi - max": 21799.0,
         "Reyting bali": 79.02,
         "Reyting": "(uz) \"A\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"UNIVERSAL BANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ7046910004",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 62,
+        "Bitimlar hajmi, mln so'mda": 18.29,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 12000.0,
+        "Savdo narxi - o'rtacha": 17888.26,
+        "Savdo narxi - max": 24000.0,
+        "Reyting bali": 75.55,
+        "Reyting": "(uz) \"BBB+\""
     },
     {
         "Davr": "2025_01",
@@ -3968,6 +4192,22 @@
         "Reyting": "(uz) \"A+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TRASTBANK\" XAB",
+        "Qimmatli qog'oz kodi": "UZ7033480003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 277,
+        "Bitimlar hajmi, mln so'mda": 70.72,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 9000.0,
+        "Savdo narxi - o'rtacha": 10815.45,
+        "Savdo narxi - max": 12950.0,
+        "Reyting bali": 82.41,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"PORTLATISHSANOAT\" AJ",
         "Qimmatli qog'oz kodi": "UZ7011550009",
@@ -4222,6 +4462,22 @@
         "Savdo narxi - max": 22000.0,
         "Reyting bali": 69.96,
         "Reyting": "(uz) \"BBB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"PORTLATISHSANOAT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7011550009",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 41,
+        "Bitimlar hajmi, mln so'mda": 24.57,
+        "Nominal narx": 1094.71,
+        "Savdo narxi - min": 18000.02,
+        "Savdo narxi - o'rtacha": 20355.26,
+        "Savdo narxi - max": 21999.99,
+        "Reyting bali": 71.52,
+        "Reyting": "(uz) \"BBB\""
     },
     {
         "Davr": "2025_01",
@@ -4496,6 +4752,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZMETKOMBINAT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7021720006",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 1509,
+        "Bitimlar hajmi, mln so'mda": 384.09,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 5000.0,
+        "Savdo narxi - o'rtacha": 5744.26,
+        "Savdo narxi - max": 6000.0,
+        "Reyting bali": 79.23,
+        "Reyting": "(uz) \"A\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"UZAUTO MOTORS\" AJ",
         "Qimmatli qog'oz kodi": "UZ7003040001",
@@ -4765,6 +5037,22 @@
         "Savdo narxi - o'rtacha": 53580.6,
         "Savdo narxi - max": 55558.0,
         "Reyting bali": 78.27,
+        "Reyting": "(uz) \"A-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"UZAUTO MOTORS\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7003040001",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Andijon viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 182,
+        "Bitimlar hajmi, mln so'mda": 80.18,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 50000.01,
+        "Savdo narxi - o'rtacha": 53685.78,
+        "Savdo narxi - max": 55500.0,
+        "Reyting bali": 78.17,
         "Reyting": "(uz) \"A-\""
     },
     {
@@ -5040,6 +5328,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TOSHKENTDONMAHSULOTLARI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7026980001",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 106,
+        "Bitimlar hajmi, mln so'mda": 7.06,
+        "Nominal narx": 300.0,
+        "Savdo narxi - min": 2232.0,
+        "Savdo narxi - o'rtacha": 2600.16,
+        "Savdo narxi - max": 2800.0,
+        "Reyting bali": 74.52,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"AGROBANK\" ATB",
         "Qimmatli qog'oz kodi": "UZ7001560000",
@@ -5309,6 +5613,22 @@
         "Savdo narxi - o'rtacha": 607.83,
         "Savdo narxi - max": 726.0,
         "Reyting bali": 80.16,
+        "Reyting": "(uz) \"A\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"AGROBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ7001560000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 576,
+        "Bitimlar hajmi, mln so'mda": 34.73,
+        "Nominal narx": 1168.0,
+        "Savdo narxi - min": 560.0,
+        "Savdo narxi - o'rtacha": 612.36,
+        "Savdo narxi - max": 625.0,
+        "Reyting bali": 79.88,
         "Reyting": "(uz) \"A\""
     },
     {
@@ -5584,6 +5904,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZTEMIRYO'LKONTEYNER\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7051720009",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "BOSHQALAR",
+        "Bitimlar chastotasi": 33,
+        "Bitimlar hajmi, mln so'mda": 44.25,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 350000.0,
+        "Savdo narxi - o'rtacha": 419000.0,
+        "Savdo narxi - max": 500000.0,
+        "Reyting bali": 76.0,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"BIZNESNI RIVOJLANTIRISH BANKI\" ATB",
         "Qimmatli qog'oz kodi": "UZ7018790004",
@@ -5853,6 +6189,22 @@
         "Savdo narxi - o'rtacha": 121.31,
         "Savdo narxi - max": 155.0,
         "Reyting bali": 81.2,
+        "Reyting": "(uz) \"A\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIZNESNI RIVOJLANTIRISH BANKI\" ATB",
+        "Qimmatli qog'oz kodi": "UZ7018790004",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 666,
+        "Bitimlar hajmi, mln so'mda": 26.37,
+        "Nominal narx": 119.25,
+        "Savdo narxi - min": 115.0,
+        "Savdo narxi - o'rtacha": 127.82,
+        "Savdo narxi - max": 160.2,
+        "Reyting bali": 79.6,
         "Reyting": "(uz) \"A\""
     },
     {
@@ -6352,6 +6704,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"QIZILQUMSEMENT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7029000005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Navoiy viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 1521,
+        "Bitimlar hajmi, mln so'mda": 179.69,
+        "Nominal narx": 1570.0,
+        "Savdo narxi - min": 1121.03,
+        "Savdo narxi - o'rtacha": 1230.64,
+        "Savdo narxi - max": 1394.0,
+        "Reyting bali": 75.71,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZBEKKO'MIR\" AJ",
         "Qimmatli qog'oz kodi": "UZ7052260005",
@@ -6622,6 +6990,22 @@
         "Savdo narxi - max": 9000.0,
         "Reyting bali": 71.64,
         "Reyting": "(uz) \"BBB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKKO'MIR\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7052260005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "KONCHILIK VA KARERCHILIK",
+        "Bitimlar chastotasi": 270,
+        "Bitimlar hajmi, mln so'mda": 25.4,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 7600.0,
+        "Savdo narxi - o'rtacha": 10930.15,
+        "Savdo narxi - max": 16000.0,
+        "Reyting bali": 76.22,
+        "Reyting": "(uz) \"A-\""
     },
     {
         "Davr": "2025_09",
@@ -6928,6 +7312,22 @@
         "Reyting": "(uz) \"BBB+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"MIKROKREDITBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ7015230004",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 136,
+        "Bitimlar hajmi, mln so'mda": 1.88,
+        "Nominal narx": 1068.0,
+        "Savdo narxi - min": 925.0,
+        "Savdo narxi - o'rtacha": 1027.92,
+        "Savdo narxi - max": 1067.0,
+        "Reyting bali": 72.16,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"BEKOBODSEMENT\" AJ",
         "Qimmatli qog'oz kodi": "UZ7028450003",
@@ -7198,6 +7598,22 @@
         "Savdo narxi - max": 14583.99,
         "Reyting bali": 72.15,
         "Reyting": "(uz) \"BBB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BEKOBODSEMENT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7028450003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 97,
+        "Bitimlar hajmi, mln so'mda": 10.22,
+        "Nominal narx": 100.0,
+        "Savdo narxi - min": 10800.0,
+        "Savdo narxi - o'rtacha": 12769.36,
+        "Savdo narxi - max": 14000.0,
+        "Reyting bali": 73.96,
+        "Reyting": "(uz) \"BBB+\""
     },
     {
         "Davr": "2025_01",
@@ -7472,6 +7888,22 @@
         "Reyting": "(uz) \"A\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"KVARTS\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7025770007",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 1236,
+        "Bitimlar hajmi, mln so'mda": 258.76,
+        "Nominal narx": 1715.0,
+        "Savdo narxi - min": 2100.0,
+        "Savdo narxi - o'rtacha": 2403.17,
+        "Savdo narxi - max": 2649.99,
+        "Reyting bali": 79.4,
+        "Reyting": "(uz) \"A\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"GARANT BANK\" AJ",
         "Qimmatli qog'oz kodi": "UZ7037610001",
@@ -7742,6 +8174,22 @@
         "Savdo narxi - max": 839.99,
         "Reyting bali": 78.76,
         "Reyting": "(uz) \"A-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"GARANT BANK\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7037610001",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 367,
+        "Bitimlar hajmi, mln so'mda": 12.0,
+        "Nominal narx": 100.0,
+        "Savdo narxi - min": 691.0,
+        "Savdo narxi - o'rtacha": 799.38,
+        "Savdo narxi - max": 949.5,
+        "Reyting bali": 79.02,
+        "Reyting": "(uz) \"A\""
     },
     {
         "Davr": "2025_01",
@@ -8192,6 +8640,22 @@
         "Reyting": "(uz) \"BBB\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKISTON POCHTASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7005280001",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "TRANSPORT VA SAQLASH",
+        "Bitimlar chastotasi": 164,
+        "Bitimlar hajmi, mln so'mda": 19.99,
+        "Nominal narx": 1905.0,
+        "Savdo narxi - min": 12641.0,
+        "Savdo narxi - o'rtacha": 14186.85,
+        "Savdo narxi - max": 14500.0,
+        "Reyting bali": 72.16,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "CHEKI \"QUVASOYCEMENT\" AJ",
         "Qimmatli qog'oz kodi": "UZ7022100000",
@@ -8462,6 +8926,22 @@
         "Savdo narxi - max": 130000.0,
         "Reyting bali": 73.72,
         "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "CHEKI \"QUVASOYCEMENT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7022100000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 23,
+        "Bitimlar hajmi, mln so'mda": 80.09,
+        "Nominal narx": 1200.0,
+        "Savdo narxi - min": 105000.0,
+        "Savdo narxi - o'rtacha": 123574.74,
+        "Savdo narxi - max": 155000.0,
+        "Reyting bali": 76.88,
+        "Reyting": "(uz) \"A-\""
     },
     {
         "Davr": "2025_01",
@@ -8736,6 +9216,22 @@
         "Reyting": "(uz) \"A\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"OHANGARON DON\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7023190000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 129,
+        "Bitimlar hajmi, mln so'mda": 8.81,
+        "Nominal narx": 300.0,
+        "Savdo narxi - min": 4550.0,
+        "Savdo narxi - o'rtacha": 5119.04,
+        "Savdo narxi - max": 5990.0,
+        "Reyting bali": 76.67,
+        "Reyting": "(uz) \"A-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"DORI-DARMON\" AK",
         "Qimmatli qog'oz kodi": "UZ7054590003",
@@ -9006,6 +9502,22 @@
         "Savdo narxi - max": 6499.99,
         "Reyting bali": 74.24,
         "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"DORI-DARMON\" AK",
+        "Qimmatli qog'oz kodi": "UZ7054590003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "ULGURJI VA CHAKANA SAVDO; AVTOMOBIL VA MOTOTSIKLLARNI TA'MIRLASH",
+        "Bitimlar chastotasi": 438,
+        "Bitimlar hajmi, mln so'mda": 117.33,
+        "Nominal narx": 4300.0,
+        "Savdo narxi - min": 4802.0,
+        "Savdo narxi - o'rtacha": 5636.04,
+        "Savdo narxi - max": 6397.99,
+        "Reyting bali": 76.74,
+        "Reyting": "(uz) \"A-\""
     },
     {
         "Davr": "2025_01",
@@ -9280,6 +9792,22 @@
         "Reyting": "(uz) \"BBB+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZTRANSGAZ\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7043380003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "BOSHQALAR",
+        "Bitimlar chastotasi": 31,
+        "Bitimlar hajmi, mln so'mda": 7.91,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 120000.0,
+        "Savdo narxi - o'rtacha": 157354.84,
+        "Savdo narxi - max": 216000.0,
+        "Reyting bali": 74.64,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"OCTOBANK\" AJ",
         "Qimmatli qog'oz kodi": "UZ7048610008",
@@ -9550,6 +10078,22 @@
         "Savdo narxi - max": 50505.05,
         "Reyting bali": 79.73,
         "Reyting": "(uz) \"A\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"OCTOBANK\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7048610008",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 0.47,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 47000.0,
+        "Savdo narxi - o'rtacha": 47000.0,
+        "Savdo narxi - max": 47000.0,
+        "Reyting bali": 68.53,
+        "Reyting": "(uz) \"BBB-\""
     },
     {
         "Davr": "2025_01",
@@ -10096,6 +10640,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"QASHQADARYO TEXNOLOGIK TRANSPORT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7034730000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Qashqadaryo viloyati",
+        "Tarmoq": "TRANSPORT VA SAQLASH",
+        "Bitimlar chastotasi": 1090,
+        "Bitimlar hajmi, mln so'mda": 59.27,
+        "Nominal narx": 106.0,
+        "Savdo narxi - min": 206.06,
+        "Savdo narxi - o'rtacha": 285.0,
+        "Savdo narxi - max": 348.0,
+        "Reyting bali": 73.87,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"BOSHTRANSLOYIHA\" TRANSPORT BO'YICHA BOSH LOYIHA-QIDIRUV INSTITUTI AJ",
         "Qimmatli qog'oz kodi": "UZ7052610001",
@@ -10366,6 +10926,22 @@
         "Savdo narxi - max": 11999.11,
         "Reyting bali": 73.49,
         "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BOSHTRANSLOYIHA\" TRANSPORT BO'YICHA BOSH LOYIHA-QIDIRUV INSTITUTI AJ",
+        "Qimmatli qog'oz kodi": "UZ7052610001",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "KASBIY, ILMIY VA TEXNIK FAOLIYAT",
+        "Bitimlar chastotasi": 38,
+        "Bitimlar hajmi, mln so'mda": 46765.25,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 9900.0,
+        "Savdo narxi - o'rtacha": 10921.64,
+        "Savdo narxi - max": 36903.24,
+        "Reyting bali": 78.37,
+        "Reyting": "(uz) \"A-\""
     },
     {
         "Davr": "2025_01",
@@ -10832,6 +11408,22 @@
         "Reyting": "(uz) \"BBB-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BUXORONEFTGAZPARMALASH\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7045550009",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Buxoro viloyati",
+        "Tarmoq": "KONCHILIK VA KARERCHILIK",
+        "Bitimlar chastotasi": 266,
+        "Bitimlar hajmi, mln so'mda": 34.5,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 5000.0,
+        "Savdo narxi - o'rtacha": 5849.41,
+        "Savdo narxi - max": 6999.99,
+        "Reyting bali": 70.46,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"BIOKIMYO\" AJ",
         "Qimmatli qog'oz kodi": "UZ7025870005",
@@ -11102,6 +11694,22 @@
         "Savdo narxi - max": 18000.0,
         "Reyting bali": 75.98,
         "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIOKIMYO\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7025870005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 404,
+        "Bitimlar hajmi, mln so'mda": 280.43,
+        "Nominal narx": 3350.0,
+        "Savdo narxi - min": 14500.0,
+        "Savdo narxi - o'rtacha": 15476.11,
+        "Savdo narxi - max": 19090.0,
+        "Reyting bali": 77.06,
+        "Reyting": "(uz) \"A-\""
     },
     {
         "Davr": "2025_01",
@@ -11760,6 +12368,22 @@
         "Reyting": "(uz) \"BBB\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TEMIRYO'L-SUG'URTA\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7057480012",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 167,
+        "Bitimlar hajmi, mln so'mda": 2.27,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 1423.57,
+        "Savdo narxi - o'rtacha": 1476.75,
+        "Savdo narxi - max": 1500.0,
+        "Reyting bali": 70.62,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZBEKKIMYOMASH ZAVODI\" AJ",
         "Qimmatli qog'oz kodi": "UZ7016400002",
@@ -12030,6 +12654,22 @@
         "Savdo narxi - max": 7920.0,
         "Reyting bali": 69.37,
         "Reyting": "(uz) \"BBB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKKIMYOMASH ZAVODI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7016400002",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 97,
+        "Bitimlar hajmi, mln so'mda": 4.57,
+        "Nominal narx": 751.0,
+        "Savdo narxi - min": 4003.46,
+        "Savdo narxi - o'rtacha": 5539.13,
+        "Savdo narxi - max": 7560.0,
+        "Reyting bali": 70.69,
+        "Reyting": "(uz) \"BBB\""
     },
     {
         "Davr": "2025_01",
@@ -12526,6 +13166,22 @@
         "Savdo narxi - max": 21999.95,
         "Reyting bali": 68.42,
         "Reyting": "(uz) \"BBB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZVAGONTA'MIR\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7051840005",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 76,
+        "Bitimlar hajmi, mln so'mda": 4.02,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 17700.0,
+        "Savdo narxi - o'rtacha": 23629.31,
+        "Savdo narxi - max": 30000.0,
+        "Reyting bali": 70.33,
+        "Reyting": "(uz) \"BBB\""
     },
     {
         "Davr": "2025_01",
@@ -13536,6 +14192,22 @@
         "Reyting": "(uz) \"BB\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"MINORA QURISH EKSPEDITSIYASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7007440009",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Qashqadaryo viloyati",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 55,
+        "Bitimlar hajmi, mln so'mda": 675.0,
+        "Nominal narx": 240.0,
+        "Savdo narxi - min": 1034.6,
+        "Savdo narxi - o'rtacha": 1633.37,
+        "Savdo narxi - max": 1688.0,
+        "Reyting bali": 73.73,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"NAMANGAN DORI-DARMON\" AJ",
         "Qimmatli qog'oz kodi": "UZ7018660009",
@@ -13758,6 +14430,22 @@
         "Savdo narxi - max": 24883.2,
         "Reyting bali": 59.09,
         "Reyting": "(uz) \"BB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZPARAVTOTRANS\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7032730002",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Buxoro viloyati",
+        "Tarmoq": "TRANSPORT VA SAQLASH",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 886.45,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 85137.31,
+        "Savdo narxi - o'rtacha": 85137.31,
+        "Savdo narxi - max": 85137.31,
+        "Reyting bali": 72.7,
+        "Reyting": "(uz) \"BBB\""
     },
     {
         "Davr": "2025_01",
@@ -14112,6 +14800,22 @@
         "Reyting": "(uz) \"BBB\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"ELEKTRQISHLOQQURILISH\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7007130006",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 3.72,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 310000.0,
+        "Savdo narxi - o'rtacha": 310000.0,
+        "Savdo narxi - max": 310000.0,
+        "Reyting bali": 67.59,
+        "Reyting": "(uz) \"BBB-\""
+    },
+    {
         "Davr": "2025_02",
         "Emitent nomi": "\"NEFT VA GAZ QUDUQLARINI SINASH\" AJ",
         "Qimmatli qog'oz kodi": "UZ7042650000",
@@ -14301,6 +15005,22 @@
         "Savdo narxi - o'rtacha": 17579.48,
         "Savdo narxi - max": 17999.0,
         "Reyting bali": 67.22,
+        "Reyting": "(uz) \"BBB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"NEFT VA GAZ QUDUQLARINI SINASH\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7042650000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Qashqadaryo viloyati",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 34,
+        "Bitimlar hajmi, mln so'mda": 2.49,
+        "Nominal narx": 500.0,
+        "Savdo narxi - min": 17999.0,
+        "Savdo narxi - o'rtacha": 24386.59,
+        "Savdo narxi - max": 30000.0,
+        "Reyting bali": 69.91,
         "Reyting": "(uz) \"BBB-\""
     },
     {
@@ -15632,6 +16352,22 @@
         "Reyting": "(uz) \"A\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"93-MAXSUS TREST\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7012480008",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 5,
+        "Bitimlar hajmi, mln so'mda": 10422.33,
+        "Nominal narx": 500.0,
+        "Savdo narxi - min": 5515.92,
+        "Savdo narxi - o'rtacha": 5515.92,
+        "Savdo narxi - max": 5515.92,
+        "Reyting bali": 74.37,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2026_05",
         "Emitent nomi": "\"O'ZBEKISTON RESPUBLIKASI MILLIY INVESTITSIYA JAMG'ARMASI\" AJ",
         "Qimmatli qog'oz kodi": "UZ7058980010",
@@ -15648,12 +16384,28 @@
         "Reyting": "(uz) \"AA+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKISTON RESPUBLIKASI MILLIY INVESTITSIYA JAMG'ARMASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7058980010",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "KASBIY, ILMIY VA TEXNIK FAOLIYAT",
+        "Bitimlar chastotasi": 11811,
+        "Bitimlar hajmi, mln so'mda": 28675.05,
+        "Nominal narx": 5.0,
+        "Savdo narxi - min": 5.45,
+        "Savdo narxi - o'rtacha": 5.6,
+        "Savdo narxi - max": 5.7,
+        "Reyting bali": 88.72,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
         "Davr": "2026_05",
         "Emitent nomi": "\"REGAL STAY GRAND\" AJ",
         "Qimmatli qog'oz kodi": "UZ7059260016",
         "Qimmatbaho qog'oz turi": "Oddiy aksiya",
         "Xudud": "Toshkent shahri",
-        "Tarmoq": "MEHMONXONАLАR VА SHUNGА O'XSHАSH YASHАSH JOYLАRI",
+        "Tarmoq": NaN,
         "Bitimlar chastotasi": 1,
         "Bitimlar hajmi, mln so'mda": 76795.55,
         "Nominal narx": 1000.0,
@@ -15662,6 +16414,166 @@
         "Savdo narxi - max": 4582.62,
         "Reyting bali": 79.79,
         "Reyting": "(uz) \"A\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"JANUBSANOATMONTAJ\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7012450001",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Navoiy viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 4.05,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 25000.0,
+        "Savdo narxi - o'rtacha": 25000.0,
+        "Savdo narxi - max": 25000.0,
+        "Reyting bali": 66.83,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZQISHLOQELEKTRQURILISH\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7042540003",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Samarqand viloyati",
+        "Tarmoq": "KASBIY, ILMIY VA TEXNIK FAOLIYAT",
+        "Bitimlar chastotasi": 4,
+        "Bitimlar hajmi, mln so'mda": 0.77,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 35000.0,
+        "Savdo narxi - o'rtacha": 35250.0,
+        "Savdo narxi - max": 36000.0,
+        "Reyting bali": 66.62,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"NEFTGAZQURILISHTA'MIR\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7019130002",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Buxoro viloyati",
+        "Tarmoq": "ULGURJI VA CHAKANA SAVDO; AVTOMOBIL VA MOTOTSIKLLARNI TA'MIRLASH",
+        "Bitimlar chastotasi": 2,
+        "Bitimlar hajmi, mln so'mda": 0.06,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 32000.0,
+        "Savdo narxi - o'rtacha": 32000.0,
+        "Savdo narxi - max": 32000.0,
+        "Reyting bali": 66.15,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZAGROLIZING\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7011500004",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 42,
+        "Bitimlar hajmi, mln so'mda": 0.47,
+        "Nominal narx": 2535.0,
+        "Savdo narxi - min": 2066.02,
+        "Savdo narxi - o'rtacha": 2356.7,
+        "Savdo narxi - max": 2504.99,
+        "Reyting bali": 65.87,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"YO'LREFTRANS\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7051820007",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Sirdaryo viloyati",
+        "Tarmoq": "BOSHQARUV VA QO'LLAB-QUVVATLASH XIZMATLARI FAOLIYATI",
+        "Bitimlar chastotasi": 42,
+        "Bitimlar hajmi, mln so'mda": 1.35,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 3350.0,
+        "Savdo narxi - o'rtacha": 4188.88,
+        "Savdo narxi - max": 4999.0,
+        "Reyting bali": 65.46,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TASHGIPROGOR\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7036730008",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "KASBIY, ILMIY VA TEXNIK FAOLIYAT",
+        "Bitimlar chastotasi": 6,
+        "Bitimlar hajmi, mln so'mda": 0.53,
+        "Nominal narx": 2515.0,
+        "Savdo narxi - min": 85000.0,
+        "Savdo narxi - o'rtacha": 87733.33,
+        "Savdo narxi - max": 90000.0,
+        "Reyting bali": 62.84,
+        "Reyting": "(uz) \"BB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"YUGGAZSTROY\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7027990009",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Xorazm viloyati",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 0.05,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 51840.0,
+        "Savdo narxi - o'rtacha": 51840.0,
+        "Savdo narxi - max": 51840.0,
+        "Reyting bali": 62.8,
+        "Reyting": "(uz) \"BB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"MAXSUSELEKTRTARMOQQURILISH\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7035230000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "QURILISH",
+        "Bitimlar chastotasi": 9,
+        "Bitimlar hajmi, mln so'mda": 0.46,
+        "Nominal narx": 3600.0,
+        "Savdo narxi - min": 20000.0,
+        "Savdo narxi - o'rtacha": 23844.44,
+        "Savdo narxi - max": 28800.0,
+        "Reyting bali": 62.47,
+        "Reyting": "(uz) \"BB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"SARBON-NEFTEGAZ\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7023760000",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "TRANSPORT VA SAQLASH",
+        "Bitimlar chastotasi": 5,
+        "Bitimlar hajmi, mln so'mda": 0.35,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 10100.0,
+        "Savdo narxi - o'rtacha": 11796.8,
+        "Savdo narxi - max": 14544.0,
+        "Reyting bali": 59.26,
+        "Reyting": "(uz) \"BB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"UZMED-LIZING\" AJ IHTISOSLASHTIRILGAN LIZING KOMPANIYASI",
+        "Qimmatli qog'oz kodi": "UZ7055630006",
+        "Qimmatbaho qog'oz turi": "Oddiy aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 2,
+        "Bitimlar hajmi, mln so'mda": 0.05,
+        "Nominal narx": 1363.0,
+        "Savdo narxi - min": 13000.0,
+        "Savdo narxi - o'rtacha": 13050.0,
+        "Savdo narxi - max": 13100.0,
+        "Reyting bali": 57.23,
+        "Reyting": "(uz) \"B+\""
     },
     {
         "Davr": "2025_01",
@@ -15936,6 +16848,22 @@
         "Reyting": "(uz) \"A+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "AT \"ALOQABANK\"",
+        "Qimmatli qog'oz kodi": "UZ704476K019",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1739,
+        "Bitimlar hajmi, mln so'mda": 112.34,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 2.96,
+        "Savdo narxi - o'rtacha": 3.4,
+        "Savdo narxi - max": 4.0,
+        "Reyting bali": 88.48,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
         "Davr": "2025_10",
         "Emitent nomi": "\"O'ZAGROSUG'URTA\" AJ",
         "Qimmatli qog'oz kodi": "UZ704557K016",
@@ -16013,6 +16941,22 @@
         "Savdo narxi - o'rtacha": 10888.01,
         "Savdo narxi - max": 10888.01,
         "Reyting bali": 62.83,
+        "Reyting": "(uz) \"BB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZAGROSUG'URTA\" AJ",
+        "Qimmatli qog'oz kodi": "UZ704557K016",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 0.01,
+        "Nominal narx": 3280.0,
+        "Savdo narxi - min": 13000.0,
+        "Savdo narxi - o'rtacha": 13000.0,
+        "Savdo narxi - max": 13000.0,
+        "Reyting bali": 62.6,
         "Reyting": "(uz) \"BB\""
     },
     {
@@ -16288,6 +17232,38 @@
         "Reyting": "(uz) \"AA\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "CHEKI \"HAMKORBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ701134K017",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Andijon viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1217,
+        "Bitimlar hajmi, mln so'mda": 80.72,
+        "Nominal narx": 5.0,
+        "Savdo narxi - min": 60.0,
+        "Savdo narxi - o'rtacha": 75.26,
+        "Savdo narxi - max": 79.0,
+        "Reyting bali": 87.69,
+        "Reyting": "(uz) \"AA-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"KAFOLAT SUG'URTA KOMPANIYASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ700110K018",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 59,
+        "Bitimlar hajmi, mln so'mda": 0.61,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 500.0,
+        "Savdo narxi - o'rtacha": 779.66,
+        "Savdo narxi - max": 1000.0,
+        "Reyting bali": 73.67,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"IPOTEKA-BANK\" ATIB",
         "Qimmatli qog'oz kodi": "UZ705457K018",
@@ -16560,6 +17536,22 @@
         "Reyting": "(uz) \"AAA-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"IPOTEKA-BANK\" ATIB",
+        "Qimmatli qog'oz kodi": "UZ705457K018",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 2421,
+        "Bitimlar hajmi, mln so'mda": 132.61,
+        "Nominal narx": 1.0,
+        "Savdo narxi - min": 7.42,
+        "Savdo narxi - o'rtacha": 9.0,
+        "Savdo narxi - max": 10.5,
+        "Reyting bali": 92.42,
+        "Reyting": "(uz) \"AA+\""
+    },
+    {
         "Davr": "2025_10",
         "Emitent nomi": "\"ALSKOM SUG'URTA KOMPANIYASI\" AJ",
         "Qimmatli qog'oz kodi": "UZ704532K019",
@@ -16686,6 +17678,22 @@
         "Savdo narxi - max": 9950.0,
         "Reyting bali": 65.89,
         "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"ALSKOM SUG'URTA KOMPANIYASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ704532K019",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 125,
+        "Bitimlar hajmi, mln so'mda": 16.23,
+        "Nominal narx": 1380.0,
+        "Savdo narxi - min": 8000.1,
+        "Savdo narxi - o'rtacha": 10139.85,
+        "Savdo narxi - max": 12000.0,
+        "Reyting bali": 74.49,
+        "Reyting": "(uz) \"BBB+\""
     },
     {
         "Davr": "2025_01",
@@ -16960,6 +17968,22 @@
         "Reyting": "(uz) \"AA-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZSANOATQURILISHBANK\" ATB ",
+        "Qimmatli qog'oz kodi": "UZ703756K015",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1502,
+        "Bitimlar hajmi, mln so'mda": 58.74,
+        "Nominal narx": 19.0,
+        "Savdo narxi - min": 80.0,
+        "Savdo narxi - o'rtacha": 93.53,
+        "Savdo narxi - max": 110.4,
+        "Reyting bali": 84.86,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
         "Davr": "2025_11",
         "Emitent nomi": "\"KAPITAL SUG'URTA\" AJ",
         "Qimmatli qog'oz kodi": "UZ702866K013",
@@ -17070,6 +18094,22 @@
         "Savdo narxi - max": 0.23,
         "Reyting bali": 86.21,
         "Reyting": "(uz) \"AA-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"KAPITAL SUG'URTA\" AJ",
+        "Qimmatli qog'oz kodi": "UZ702866K013",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1468,
+        "Bitimlar hajmi, mln so'mda": 30.5,
+        "Nominal narx": 0.01,
+        "Savdo narxi - min": 0.16,
+        "Savdo narxi - o'rtacha": 0.19,
+        "Savdo narxi - max": 0.2,
+        "Reyting bali": 83.91,
+        "Reyting": "(uz) \"A+\""
     },
     {
         "Davr": "2025_01",
@@ -17344,6 +18384,22 @@
         "Reyting": "(uz) \"A+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"OLMALIQ KON-METALLURGIYA KOMBINATI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ700055K015",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 558,
+        "Bitimlar hajmi, mln so'mda": 380.62,
+        "Nominal narx": 3914.0,
+        "Savdo narxi - min": 14000.0,
+        "Savdo narxi - o'rtacha": 16126.98,
+        "Savdo narxi - max": 17489.0,
+        "Reyting bali": 86.86,
+        "Reyting": "(uz) \"AA-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"AGROBANK\" ATB",
         "Qimmatli qog'oz kodi": "UZ700156K011",
@@ -17613,6 +18669,22 @@
         "Savdo narxi - o'rtacha": 9023.4,
         "Savdo narxi - max": 9300.0,
         "Reyting bali": 78.19,
+        "Reyting": "(uz) \"A-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"AGROBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ700156K011",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 207,
+        "Bitimlar hajmi, mln so'mda": 21.74,
+        "Nominal narx": 1168.0,
+        "Savdo narxi - min": 8500.01,
+        "Savdo narxi - o'rtacha": 8908.45,
+        "Savdo narxi - max": 9300.0,
+        "Reyting bali": 78.84,
         "Reyting": "(uz) \"A-\""
     },
     {
@@ -17888,6 +18960,22 @@
         "Reyting": "(uz) \"BBB+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIZNESNI RIVOJLANTIRISH BANKI\" ATB",
+        "Qimmatli qog'oz kodi": "UZ701879K017",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 529,
+        "Bitimlar hajmi, mln so'mda": 16.18,
+        "Nominal narx": 119.25,
+        "Savdo narxi - min": 308.01,
+        "Savdo narxi - o'rtacha": 371.99,
+        "Savdo narxi - max": 420.0,
+        "Reyting bali": 77.96,
+        "Reyting": "(uz) \"A-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZTRANSGAZ\" AJ",
         "Qimmatli qog'oz kodi": "UZ704338K011",
@@ -18158,6 +19246,22 @@
         "Savdo narxi - max": 10000.0,
         "Reyting bali": 75.81,
         "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZTRANSGAZ\" AJ",
+        "Qimmatli qog'oz kodi": "UZ704338K011",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "BOSHQALAR",
+        "Bitimlar chastotasi": 208,
+        "Bitimlar hajmi, mln so'mda": 13.73,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 8910.0,
+        "Savdo narxi - o'rtacha": 9514.74,
+        "Savdo narxi - max": 10000.0,
+        "Reyting bali": 77.06,
+        "Reyting": "(uz) \"A-\""
     },
     {
         "Davr": "2025_01",
@@ -18432,6 +19536,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZMETKOMBINAT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ702172K016",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 889,
+        "Bitimlar hajmi, mln so'mda": 115.3,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 3285.0,
+        "Savdo narxi - o'rtacha": 3921.26,
+        "Savdo narxi - max": 4100.0,
+        "Reyting bali": 79.54,
+        "Reyting": "(uz) \"A\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZBEKGEOFIZIKA\" AJ",
         "Qimmatli qog'oz kodi": "UZ700788K011",
@@ -18704,6 +19824,22 @@
         "Reyting": "(uz) \"BBB-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKGEOFIZIKA\" AJ",
+        "Qimmatli qog'oz kodi": "UZ700788K011",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "KASBIY, ILMIY VA TEXNIK FAOLIYAT",
+        "Bitimlar chastotasi": 440,
+        "Bitimlar hajmi, mln so'mda": 66.36,
+        "Nominal narx": 286.0,
+        "Savdo narxi - min": 704.0,
+        "Savdo narxi - o'rtacha": 927.25,
+        "Savdo narxi - max": 1000.0,
+        "Reyting bali": 72.87,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"TURONBANK\" ATB",
         "Qimmatli qog'oz kodi": "UZ703553K016",
@@ -18974,6 +20110,22 @@
         "Savdo narxi - max": 3248.99,
         "Reyting bali": 72.05,
         "Reyting": "(uz) \"BBB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TURONBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ703553K016",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 214,
+        "Bitimlar hajmi, mln so'mda": 60.96,
+        "Nominal narx": 1700.0,
+        "Savdo narxi - min": 3008.01,
+        "Savdo narxi - o'rtacha": 3334.58,
+        "Savdo narxi - max": 3732.82,
+        "Reyting bali": 79.98,
+        "Reyting": "(uz) \"A\""
     },
     {
         "Davr": "2025_01",
@@ -19472,6 +20624,22 @@
         "Reyting": "(uz) \"BBB+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"MIKROKREDITBANK\" ATB",
+        "Qimmatli qog'oz kodi": "UZ701523K011",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 33,
+        "Bitimlar hajmi, mln so'mda": 1.57,
+        "Nominal narx": 1068.0,
+        "Savdo narxi - min": 10137.01,
+        "Savdo narxi - o'rtacha": 11127.28,
+        "Savdo narxi - max": 12164.41,
+        "Reyting bali": 72.73,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"TRASTBANK\" XAB",
         "Qimmatli qog'oz kodi": "UZ703348K011",
@@ -19549,6 +20717,22 @@
         "Savdo narxi - o'rtacha": 225000.0,
         "Savdo narxi - max": 250000.0,
         "Reyting bali": 70.65,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TRASTBANK\" XAB",
+        "Qimmatli qog'oz kodi": "UZ703348K011",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 4,
+        "Bitimlar hajmi, mln so'mda": 0.69,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 160000.0,
+        "Savdo narxi - o'rtacha": 172500.0,
+        "Savdo narxi - max": 190000.0,
+        "Reyting bali": 72.5,
         "Reyting": "(uz) \"BBB\""
     },
     {
@@ -19710,6 +20894,22 @@
         "Savdo narxi - max": 44000.0,
         "Reyting bali": 62.35,
         "Reyting": "(uz) \"BB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"FARG'ONAAZOT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ705435K014",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 0.04,
+        "Nominal narx": 2530.0,
+        "Savdo narxi - min": 45000.0,
+        "Savdo narxi - o'rtacha": 45000.0,
+        "Savdo narxi - max": 45000.0,
+        "Reyting bali": 60.95,
+        "Reyting": "(uz) \"BB-\""
     },
     {
         "Davr": "2025_01",
@@ -19984,6 +21184,22 @@
         "Reyting": "(uz) \"BB+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BUXORONEFTGAZPARMALASH\" AJ",
+        "Qimmatli qog'oz kodi": "UZ704555K010",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Buxoro viloyati",
+        "Tarmoq": "KONCHILIK VA KARERCHILIK",
+        "Bitimlar chastotasi": 49,
+        "Bitimlar hajmi, mln so'mda": 7.28,
+        "Nominal narx": 5000.0,
+        "Savdo narxi - min": 32886.0,
+        "Savdo narxi - o'rtacha": 39799.26,
+        "Savdo narxi - max": 45000.0,
+        "Reyting bali": 65.61,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZBEKTELEKOM\" AK",
         "Qimmatli qog'oz kodi": "UZ704711K019",
@@ -20240,6 +21456,22 @@
         "Reyting": "(uz) \"AA+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKTELEKOM\" AK",
+        "Qimmatli qog'oz kodi": "UZ704711K019",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "AXBOROT VA KOMMUNIKATSIYA",
+        "Bitimlar chastotasi": 1524,
+        "Bitimlar hajmi, mln so'mda": 242.91,
+        "Nominal narx": 1154.0,
+        "Savdo narxi - min": 3285.0,
+        "Savdo narxi - o'rtacha": 4163.73,
+        "Savdo narxi - max": 4450.0,
+        "Reyting bali": 88.29,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"BEKOBODSEMENT\" AJ",
         "Qimmatli qog'oz kodi": "UZ702845K017",
@@ -20493,6 +21725,22 @@
         "Savdo narxi - o'rtacha": 37500.0,
         "Savdo narxi - max": 37500.0,
         "Reyting bali": 65.85,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BEKOBODSEMENT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ702845K017",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 3,
+        "Bitimlar hajmi, mln so'mda": 0.18,
+        "Nominal narx": 100.0,
+        "Savdo narxi - min": 31000.0,
+        "Savdo narxi - o'rtacha": 35000.0,
+        "Savdo narxi - max": 37000.0,
+        "Reyting bali": 66.6,
         "Reyting": "(uz) \"BB+\""
     },
     {
@@ -20768,6 +22016,22 @@
         "Reyting": "(uz) \"BBB\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKKO'MIR\" AJ",
+        "Qimmatli qog'oz kodi": "UZ705226K017",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "KONCHILIK VA KARERCHILIK",
+        "Bitimlar chastotasi": 141,
+        "Bitimlar hajmi, mln so'mda": 8.29,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 10050.0,
+        "Savdo narxi - o'rtacha": 11981.78,
+        "Savdo narxi - max": 15600.0,
+        "Reyting bali": 72.71,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "CHEKI \"QUVASOYCEMENT\" AJ",
         "Qimmatli qog'oz kodi": "UZ702210K014",
@@ -20845,6 +22109,22 @@
         "Savdo narxi - o'rtacha": 105600.5,
         "Savdo narxi - max": 105601.0,
         "Reyting bali": 65.72,
+        "Reyting": "(uz) \"BB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "CHEKI \"QUVASOYCEMENT\" AJ",
+        "Qimmatli qog'oz kodi": "UZ702210K014",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 1,
+        "Bitimlar hajmi, mln so'mda": 0.11,
+        "Nominal narx": 1200.0,
+        "Savdo narxi - min": 105600.0,
+        "Savdo narxi - o'rtacha": 105600.0,
+        "Savdo narxi - max": 105600.0,
+        "Reyting bali": 66.14,
         "Reyting": "(uz) \"BB+\""
     },
     {
@@ -21120,6 +22400,22 @@
         "Reyting": "(uz) \"BB+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKISTON POCHTASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ700528K011",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "TRANSPORT VA SAQLASH",
+        "Bitimlar chastotasi": 42,
+        "Bitimlar hajmi, mln so'mda": 3.53,
+        "Nominal narx": 1905.0,
+        "Savdo narxi - min": 31232.0,
+        "Savdo narxi - o'rtacha": 42778.65,
+        "Savdo narxi - max": 50000.0,
+        "Reyting bali": 68.9,
+        "Reyting": "(uz) \"BBB-\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"PORTLATISHSANOAT\" AJ",
         "Qimmatli qog'oz kodi": "UZ701155K012",
@@ -21373,6 +22669,22 @@
         "Savdo narxi - o'rtacha": 3768.55,
         "Savdo narxi - max": 5199.99,
         "Reyting bali": 70.86,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"TOSHKENTDONMAHSULOTLARI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ702698K010",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent viloyati",
+        "Tarmoq": "ISHLAB CHIQARISH SANOATI",
+        "Bitimlar chastotasi": 25,
+        "Bitimlar hajmi, mln so'mda": 1.11,
+        "Nominal narx": 300.0,
+        "Savdo narxi - min": 3776.0,
+        "Savdo narxi - o'rtacha": 4976.42,
+        "Savdo narxi - max": 6239.98,
+        "Reyting bali": 70.95,
         "Reyting": "(uz) \"BBB\""
     },
     {
@@ -21648,6 +22960,22 @@
         "Reyting": "(uz) \"A+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKNEFTGAZ\" AJ",
+        "Qimmatli qog'oz kodi": "UZ7036271003",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "KONCHILIK VA KARERCHILIK",
+        "Bitimlar chastotasi": 1107,
+        "Bitimlar hajmi, mln so'mda": 66.55,
+        "Nominal narx": 500.0,
+        "Savdo narxi - min": 2360.0,
+        "Savdo narxi - o'rtacha": 2827.44,
+        "Savdo narxi - max": 3199.0,
+        "Reyting bali": 83.44,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"O'ZBEKINVEST\" EISK AJ",
         "Qimmatli qog'oz kodi": "UZ7056921008",
@@ -21918,6 +23246,22 @@
         "Savdo narxi - max": 1950.0,
         "Reyting bali": 87.52,
         "Reyting": "(uz) \"AA-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKINVEST\" EISK AJ",
+        "Qimmatli qog'oz kodi": "UZ7056921008",
+        "Qimmatbaho qog'oz turi": "Imtiyozli aksiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 1974,
+        "Bitimlar hajmi, mln so'mda": 280.98,
+        "Nominal narx": 1000.0,
+        "Savdo narxi - min": 1800.0,
+        "Savdo narxi - o'rtacha": 1971.89,
+        "Savdo narxi - max": 2100.0,
+        "Reyting bali": 89.39,
+        "Reyting": "(uz) \"AA\""
     },
     {
         "Davr": "2025_09",
@@ -22576,6 +23920,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIZNES FINANS MIKROMOLIYA TASHKILOTI\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6057687AB2",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 110,
+        "Bitimlar hajmi, mln so'mda": 338.99,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 100000.0,
+        "Savdo narxi - o'rtacha": 104749.46,
+        "Savdo narxi - max": 120000.0,
+        "Reyting bali": 73.12,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_01",
         "Emitent nomi": "\"IMKON FINANS MIKROMOLIYA TASHKILOTI\" AJ",
         "Qimmatli qog'oz kodi": "UZ6056967AD5",
@@ -22846,6 +24206,22 @@
         "Savdo narxi - max": 1047000.0,
         "Reyting bali": 76.11,
         "Reyting": "(uz) \"A-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"IMKON FINANS MIKROMOLIYA TASHKILOTI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ6056967AD5",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Andijon viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 37,
+        "Bitimlar hajmi, mln so'mda": 151.11,
+        "Nominal narx": 1000000.0,
+        "Savdo narxi - min": 1000000.0,
+        "Savdo narxi - o'rtacha": 1036135.27,
+        "Savdo narxi - max": 1098999.0,
+        "Reyting bali": 74.47,
+        "Reyting": "(uz) \"BBB+\""
     },
     {
         "Davr": "2025_02",
@@ -23166,6 +24542,22 @@
         "Savdo narxi - max": 110000.0,
         "Reyting bali": 73.4,
         "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIZNES FINANS MIKROMOLIYA TASHKILOTI\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6057687AC0",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 58,
+        "Bitimlar hajmi, mln so'mda": 69.78,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 102100.02,
+        "Savdo narxi - o'rtacha": 107202.29,
+        "Savdo narxi - max": 110000.0,
+        "Reyting bali": 68.42,
+        "Reyting": "(uz) \"BBB-\""
     },
     {
         "Davr": "2025_03",
@@ -23840,6 +25232,22 @@
         "Reyting": "(uz) \"AA\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"AGAT CREDIT\" AJ  MIKROMOLIYA TASHKILOTI",
+        "Qimmatli qog'oz kodi": "UZ6058977AB6",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 418,
+        "Bitimlar hajmi, mln so'mda": 964.15,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 98200.03,
+        "Savdo narxi - o'rtacha": 101556.96,
+        "Savdo narxi - max": 110000.0,
+        "Reyting bali": 84.68,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
         "Davr": "2025_07",
         "Emitent nomi": "\"DELTA MIKROMOLIYA TASHKILOTI\" MCHJ",
         "Qimmatli qog'oz kodi": "UZ6058027AC8",
@@ -24000,6 +25408,22 @@
         "Reyting": "(uz) \"BBB-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"DELTA MIKROMOLIYA TASHKILOTI\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6058027AC8",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 10,
+        "Bitimlar hajmi, mln so'mda": 46.94,
+        "Nominal narx": 1000000.0,
+        "Savdo narxi - min": 1080000.0,
+        "Savdo narxi - o'rtacha": 1109104.8,
+        "Savdo narxi - max": 1188880.0,
+        "Reyting bali": 70.71,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
         "Davr": "2025_08",
         "Emitent nomi": "\"CONTACT FINANCE\" MCHJ",
         "Qimmatli qog'oz kodi": "UZ6059057AA8",
@@ -24158,6 +25582,22 @@
         "Savdo narxi - max": 110000.0,
         "Reyting bali": 68.52,
         "Reyting": "(uz) \"BBB-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"CONTACT FINANCE\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6059057AA8",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Andijon viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 14,
+        "Bitimlar hajmi, mln so'mda": 386.07,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 100000.01,
+        "Savdo narxi - o'rtacha": 100614.29,
+        "Savdo narxi - max": 101400.02,
+        "Reyting bali": 73.21,
+        "Reyting": "(uz) \"BBB+\""
     },
     {
         "Davr": "2025_10",
@@ -24384,6 +25824,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"MAKESENSE\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6058967AB7",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 8,
+        "Bitimlar hajmi, mln so'mda": 5128.68,
+        "Nominal narx": 100000000.0,
+        "Savdo narxi - min": 101972602.74,
+        "Savdo narxi - o'rtacha": 102621917.81,
+        "Savdo narxi - max": 103353424.66,
+        "Reyting bali": 77.55,
+        "Reyting": "(uz) \"A-\""
+    },
+    {
         "Davr": "2025_11",
         "Emitent nomi": "\"BIZNES FINANS MIKROMOLIYA TASHKILOTI\" MCHJ",
         "Qimmatli qog'oz kodi": "UZ6057687AD8",
@@ -24496,6 +25952,22 @@
         "Reyting": "(uz) \"A-\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIZNES FINANS MIKROMOLIYA TASHKILOTI\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6057687AD8",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 140,
+        "Bitimlar hajmi, mln so'mda": 124.54,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 100500.0,
+        "Savdo narxi - o'rtacha": 116111.11,
+        "Savdo narxi - max": 125000.0,
+        "Reyting bali": 73.99,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
         "Davr": "2025_11",
         "Emitent nomi": "\"AGAT KREDIT MIKROMOLIYA TASHKILOTI\" MCHJ",
         "Qimmatli qog'oz kodi": "UZ6058977AC4",
@@ -24606,6 +26078,22 @@
         "Savdo narxi - max": 106203.0,
         "Reyting bali": 84.61,
         "Reyting": "(uz) \"A+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"AGAT CREDIT\" AJ  MIKROMOLIYA TASHKILOTI",
+        "Qimmatli qog'oz kodi": "UZ6058977AC4",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 394,
+        "Bitimlar hajmi, mln so'mda": 3456.89,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 98000.0,
+        "Savdo narxi - o'rtacha": 102901.13,
+        "Savdo narxi - max": 109998.0,
+        "Reyting bali": 85.88,
+        "Reyting": "(uz) \"AA-\""
     },
     {
         "Davr": "2025_11",
@@ -24736,6 +26224,22 @@
         "Reyting": "(uz) \"A+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"AGAT CREDIT\" AJ  MIKROMOLIYA TASHKILOTI",
+        "Qimmatli qog'oz kodi": "UZ6058977AD2",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 205,
+        "Bitimlar hajmi, mln so'mda": 427.1,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 103000.0,
+        "Savdo narxi - o'rtacha": 105068.95,
+        "Savdo narxi - max": 112586.99,
+        "Reyting bali": 82.44,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
         "Davr": "2026_02",
         "Emitent nomi": "\"BIZNES FINANS MIKROMOLIYA TASHKILOTI\" MCHJ",
         "Qimmatli qog'oz kodi": "UZ6057687AE6",
@@ -24797,6 +26301,22 @@
         "Savdo narxi - o'rtacha": 110023.84,
         "Savdo narxi - max": 119999.99,
         "Reyting bali": 71.78,
+        "Reyting": "(uz) \"BBB\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"BIZNES FINANS MIKROMOLIYA TASHKILOTI\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6057687AE6",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 62,
+        "Bitimlar hajmi, mln so'mda": 188.93,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 102000.0,
+        "Savdo narxi - o'rtacha": 110170.47,
+        "Savdo narxi - max": 118998.0,
+        "Reyting bali": 72.94,
         "Reyting": "(uz) \"BBB\""
     },
     {
@@ -24878,6 +26398,22 @@
         "Savdo narxi - max": 120000.0,
         "Reyting bali": 85.13,
         "Reyting": "(uz) \"AA-\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"CONTACT FINANCE\" MCHJ",
+        "Qimmatli qog'oz kodi": "UZ6059057AB6",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Andijon viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 135,
+        "Bitimlar hajmi, mln so'mda": 697.49,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 100000.0,
+        "Savdo narxi - o'rtacha": 110122.44,
+        "Savdo narxi - max": 140399.97,
+        "Reyting bali": 82.17,
+        "Reyting": "(uz) \"A+\""
     },
     {
         "Davr": "2026_02",
@@ -24992,6 +26528,22 @@
         "Reyting": "(uz) \"AA+\""
     },
     {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"AGAT CREDIT\" AJ  MIKROMOLIYA TASHKILOTI",
+        "Qimmatli qog'oz kodi": "UZ6058977AE0",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 192,
+        "Bitimlar hajmi, mln so'mda": 6258.43,
+        "Nominal narx": 100000.0,
+        "Savdo narxi - min": 102002.0,
+        "Savdo narxi - o'rtacha": 107987.6,
+        "Savdo narxi - max": 118200.0,
+        "Reyting bali": 89.01,
+        "Reyting": "(uz) \"AA\""
+    },
+    {
         "Davr": "2026_05",
         "Emitent nomi": "\"UZUM SARMOYA\" MCHJ XK",
         "Qimmatli qog'oz kodi": "UZ6059287AA1",
@@ -25005,6 +26557,70 @@
         "Savdo narxi - o'rtacha": 10174383.57,
         "Savdo narxi - max": 10182191.79,
         "Reyting bali": 82.47,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"UZUM SARMOYA\" MCHJ XK",
+        "Qimmatli qog'oz kodi": "UZ6059287AA1",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 8,
+        "Bitimlar hajmi, mln so'mda": 267050.55,
+        "Nominal narx": 10000000.0,
+        "Savdo narxi - min": 10223835.62,
+        "Savdo narxi - o'rtacha": 10267431.51,
+        "Savdo narxi - max": 10364383.57,
+        "Reyting bali": 82.81,
+        "Reyting": "(uz) \"A+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"HAMROH MMT\" MCHJ  MIKROMOLIYA TASHKILOTI",
+        "Qimmatli qog'oz kodi": "UZ6058537AA0",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 2,
+        "Bitimlar hajmi, mln so'mda": 5000.0,
+        "Nominal narx": 1000000.0,
+        "Savdo narxi - min": 1000000.0,
+        "Savdo narxi - o'rtacha": 1000000.0,
+        "Savdo narxi - max": 1000000.0,
+        "Reyting bali": 73.18,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"HAMROH MMT\" MCHJ  MIKROMOLIYA TASHKILOTI",
+        "Qimmatli qog'oz kodi": "UZ6058537AB8",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Farg'ona viloyati",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 2,
+        "Bitimlar hajmi, mln so'mda": 6000.0,
+        "Nominal narx": 1000000.0,
+        "Savdo narxi - min": 1000000.0,
+        "Savdo narxi - o'rtacha": 1000000.0,
+        "Savdo narxi - max": 1000000.0,
+        "Reyting bali": 75.27,
+        "Reyting": "(uz) \"BBB+\""
+    },
+    {
+        "Davr": "2026_06",
+        "Emitent nomi": "\"O'ZBEKISTON IPOTEKANI QAYTA MOLIYALASHTIRISH KOMPANIYASI\" AJ",
+        "Qimmatli qog'oz kodi": "UZ6056887AI4",
+        "Qimmatbaho qog'oz turi": "Korporativ obligatsiya",
+        "Xudud": "Toshkent shahri",
+        "Tarmoq": "MOLIYAVIY VA SUG'URTA FAOLIYATI",
+        "Bitimlar chastotasi": 5,
+        "Bitimlar hajmi, mln so'mda": 395000.0,
+        "Nominal narx": 1000000.0,
+        "Savdo narxi - min": 1000000.0,
+        "Savdo narxi - o'rtacha": 1000000.0,
+        "Savdo narxi - max": 1000000.0,
+        "Reyting bali": 83.89,
         "Reyting": "(uz) \"A+\""
     }
 ]
